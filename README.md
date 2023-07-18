@@ -11,8 +11,6 @@ Upon running the `shopping_list.py` script, the user will be presented with a me
 3. **Remove Item from the List**: Remove an item from the shopping list.
 4. **Exit**: Exit the application.
 
-To interact with the application, simply enter the corresponding number for the desired action. Follow the on-screen prompts for further instructions.
-
 ## Functions
 
 ### `add_item(shopping_list, item)`
